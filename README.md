@@ -3,3 +3,4 @@ This library emulates a subset of PLINQ for long-running tasks. The reason for i
 
 In order to use the library, open the `Gramma.Parallel` namespace, invoke the `AsLongParallel` extension method to any `IEnumerable<T>`. You can then optionally invoke `WithCancellation` and `WithDegreeOfParallelism` as in standard PLINQ. Currently only `Where` and `Select` are natively supported. The other LINQ methods are available through the default .NET implementations.
 
+This library has no dependencies.
