@@ -8,8 +8,8 @@
     <ProjectGuid>{7A32CFF6-1268-4CFB-BEE4-3F94DCC83028}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Gramma.Parallel</RootNamespace>
-    <AssemblyName>Gramma.Parallel</AssemblyName>
+    <RootNamespace>Grammophone.Parallel</RootNamespace>
+    <AssemblyName>Grammophone.Parallel</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
@@ -22,7 +22,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <DocumentationFile>bin\Debug\Gramma.Parallel.XML</DocumentationFile>
+    <DocumentationFile>bin\Debug\Grammophone.Parallel.XML</DocumentationFile>
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -32,7 +32,7 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <DocumentationFile>bin\Release\Gramma.Parallel.XML</DocumentationFile>
+    <DocumentationFile>bin\Release\Grammophone.Parallel.XML</DocumentationFile>
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>

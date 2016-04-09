@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 
-namespace Gramma.Parallel
+namespace Grammophone.Parallel
 {
 	/// <summary>
 	/// A subset of PLINQ implemetation for parallelizing iterations which take very long.

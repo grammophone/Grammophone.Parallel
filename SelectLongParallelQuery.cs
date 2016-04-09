@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Gramma.Parallel
+namespace Grammophone.Parallel
 {
 	/// <summary>
 	/// Query for mapping a source sequence to a target sequence in parallel, optionally filtering items.

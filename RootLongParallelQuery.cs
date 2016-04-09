@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Gramma.Parallel
+namespace Grammophone.Parallel
 {
 	/// <summary>
 	/// The root query created when <see cref="LongParallelLinq.AsLongParallel"/> is invoked.

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 
-namespace Gramma.Parallel
+namespace Grammophone.Parallel
 {
 	/// <summary>
 	/// The settings for executing a <see cref="LongParallelQuery{S, T}"/>.
